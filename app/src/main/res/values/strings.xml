@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Menu Item</string>
+    <string name="search">Search</string>
+    <string name="favourite">Favourite</string>
+    <string name="shop">Shop</string>
+    <string name="settings">Settings</string>
+</resources>
